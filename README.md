@@ -1,6 +1,6 @@
 BBA
 
-Bridge Bidding Analyser
+Bridge Bot Analyzer
 
 https://sites.google.com/view/bbaenglish
 
