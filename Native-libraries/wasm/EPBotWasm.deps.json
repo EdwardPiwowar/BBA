@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0/wasi-wasm",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {},
+    ".NETCoreApp,Version=v10.0/wasi-wasm": {
+      "EPBotWasm/0.0.0.8740": {
+        "dependencies": {
+          "EPBotNET": "0.0.0.8740"
+        },
+        "runtime": {
+          "EPBotWasm.dll": {}
+        }
+      },
+      "EPBotNET/0.0.0.8740": {
+        "runtime": {
+          "EPBotNET.dll": {
+            "assemblyVersion": "0.0.0.8740",
+            "fileVersion": "0.0.0.8740"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EPBotWasm/0.0.0.8740": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EPBotNET/0.0.0.8740": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  },
+  "runtimes": {
+    "wasi-wasm": [
+      "wasi",
+      "any",
+      "base"
+    ]
+  }
+}
