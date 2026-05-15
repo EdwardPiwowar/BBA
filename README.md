@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Bridge Bot Analyzer</strong> is a bridge analysis application, designed for evaluating bidding, play decisions and performance of bridge bots.
+  <strong>Bridge Bot Analyzer</strong> is a native Windows application for contract bridge analysis based on EPBot technology.
 </p>
 
 ---
@@ -71,7 +71,6 @@ BBA.exe
 
 ## Project Website
 
-Official website:
 
 - https://sites.google.com/view/bbaenglish
 
