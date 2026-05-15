@@ -17,31 +17,23 @@
 - Fast deal processing and analysis
 - Designed for bridge players, testers, and bot developers
 
+---
 
 ## Repository Contents
 
-This repository contains:
-
 - Native Windows application binaries
-- EPBot engine libraries
 - Configuration and integration files
-
-The main BBA application is distributed as a native Windows executable.  
-Included EPBot libraries provide support for cross-platform integration and experimentation.
-
-| File / Directory | Description |
-|---|---|
-| `BBA.exe` | Main application executable |
-| `BBA.zip` | Compressed distribution package |
-| `EPBot64.dll` | EPBot library for 64-bit systems |
-| `EPBot86.dll` | EPBot library for 32-bit systems |
-| `EPBotARM64.dll` | EPBot library for ARM64 systems |
-| `EPBot64.tlb` | COM type library for the 64-bit EPBot library |
-| `EPBot86.tlb` | COM type library for the 32-bit EPBot library |
-| `EPBotARM64.tlb` | COM type library for the ARM64 EPBot library |
-| `Native-libraries/` | Native libraries for Windows, Linux, macOS, and WebAssembly (WASM) |
+- EPBot COM libraries
+- EPBot ARM library
+- EPBot IL library
+- Native libraries for:
+  - Windows
+  - Linux
+  - macOS
+  - WebAssembly (WASM)
 
 ---
+
 ## System Requirements
 
 - Windows
