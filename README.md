@@ -29,16 +29,8 @@
 The repository contains:
 
 - Native Windows application binaries
-- EPBot engine libraries for multiple platforms and CPU architectures
-- Runtime libraries for:
-  - Windows
-  - Linux
-  - macOS
-  - WebAssembly (WASM)
-- COM type libraries (`.tlb`)
-- Distribution archives
-- Configuration and support files
-- Project resources including the application logo
+- EPBot engine libraries 
+- Configuration files
 
 The main BBA application is distributed as a native Windows executable, while the included EPBot libraries support cross-platform integration and experimentation.
 
@@ -51,13 +43,13 @@ The main BBA application is distributed as a native Windows executable, while th
 | `EPBot64.tlb` | COM type library for 64-bit EPBot |
 | `EPBot86.tlb` | COM type library for 32-bit EPBot |
 | `EPBotARM64.tlb` | COM type library for ARM64 EPBot |
-| `BBALogo.jpg` | Project logo |
+| `Native-libraries` | Native library files for: Windows, Linux, macOS and WebAssembly (WASM)|
 
 ---
 
 ## System Requirements
 
-- Windows 10 or Windows 11
+- Windows
 - Supported architectures:
   - x86
   - x64
@@ -70,8 +62,7 @@ The main BBA application is distributed as a native Windows executable, while th
 
 1. Download the latest release package.
 2. Extract `BBA.zip`.
-3. Make sure all required DLL files are located in the same directory as `BBA.exe`.
-4. Launch the application.
+3. Launch the application.
 
 ---
 
