@@ -1,7 +1,7 @@
 # Bridge Bot Analyzer (BBA)
 
 <p align="center">
-  <img src="BBALogo.jpg" alt="Bridge Bot Analyzer Logo" width="300">
+  <img src="BBALogo.jpg" alt="Bridge Bot Analyzer Logo" width="130">
 </p>
 
 <p align="center">
