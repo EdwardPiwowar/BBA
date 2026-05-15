@@ -5,22 +5,18 @@
 </p>
 
 <p align="center">
-  <strong>Bridge Bot Analyzer</strong> is a bridge analysis application powered by <strong>EPBot</strong>, designed for evaluating bidding, play decisions, and bridge bot performance.
+  <strong>Bridge Bot Analyzer</strong> is a bridge analysis application, designed for evaluating bidding, play decisions and performance of bridge bots.
 </p>
 
 ---
 
 ## Features
 
-- Contract bridge deal analysis
-- Integration with the EPBot engine
-- Support for multiple architectures:
-  - x86
-  - x64
-  - ARM64
-- Native Windows executable
-- DLL and COM library support
-- Easy deployment and standalone usage
+- Analysis of contract bridge deals
+- Evaluation of bidding decisions and card play
+- Fast deal processing and analysis
+- Designed for bridge players, testers, and bot developers
+
 
 ## Repository Contents
 
