@@ -22,31 +22,30 @@
 - DLL and COM library support
 - Easy deployment and standalone usage
 
----
-
 ## Repository Contents
 
-The repository contains:
+This repository contains:
 
 - Native Windows application binaries
-- EPBot engine libraries 
-- Configuration files
+- EPBot engine libraries
+- Configuration and integration files
 
-The main BBA application is distributed as a native Windows executable, while the included EPBot libraries support cross-platform integration and experimentation.
+The main BBA application is distributed as a native Windows executable.  
+Included EPBot libraries provide support for cross-platform integration and experimentation.
 
----|---|
+| File / Directory | Description |
+|---|---|
 | `BBA.exe` | Main application executable |
 | `BBA.zip` | Compressed distribution package |
 | `EPBot64.dll` | EPBot library for 64-bit systems |
 | `EPBot86.dll` | EPBot library for 32-bit systems |
 | `EPBotARM64.dll` | EPBot library for ARM64 systems |
-| `EPBot64.tlb` | COM type library for 64-bit EPBot |
-| `EPBot86.tlb` | COM type library for 32-bit EPBot |
-| `EPBotARM64.tlb` | COM type library for ARM64 EPBot |
-| `Native-libraries` | Native library files for: Windows, Linux, macOS and WebAssembly (WASM)|
+| `EPBot64.tlb` | COM type library for the 64-bit EPBot library |
+| `EPBot86.tlb` | COM type library for the 32-bit EPBot library |
+| `EPBotARM64.tlb` | COM type library for the ARM64 EPBot library |
+| `Native-libraries/` | Native libraries for Windows, Linux, macOS, and WebAssembly (WASM) |
 
 ---
-
 ## System Requirements
 
 - Windows
