@@ -23,9 +23,9 @@
 
 - Native Windows application binaries
 - Configuration and integration files
-- EPBot COM libraries
-- EPBot ARM library
-- EPBot IL library
+- Windows COM libraries
+- Windows ARM64 library
+- Intermediate Language (IL) library
 - Native libraries for:
   - Windows
   - Linux
