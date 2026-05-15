@@ -64,7 +64,7 @@ BBA.exe
 ## Project Website
 
 
-- https://sites.google.com/view/bbaenglish
+https://sites.google.com/view/bbaenglish
 
 ---
 
@@ -98,7 +98,7 @@ Developed and maintained by Edward Piwowar.
 
 GitHub Repository:
 
-- https://github.com/EdwardPiwowar/BBA
+https://github.com/EdwardPiwowar/BBA
 
 ---
 
