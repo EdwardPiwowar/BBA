@@ -9,17 +9,17 @@
     ".NETCoreApp,Version=v10.0/wasi-wasm": {
       "EPBotWasm/0.0.0.8741": {
         "dependencies": {
-          "EPBotNET": "0.0.0.8742"
+          "EPBotNET": "0.0.0.8744"
         },
         "runtime": {
           "EPBotWasm.dll": {}
         }
       },
-      "EPBotNET/0.0.0.8742": {
+      "EPBotNET/0.0.0.8744": {
         "runtime": {
           "EPBotNET.dll": {
-            "assemblyVersion": "0.0.0.8742",
-            "fileVersion": "0.0.0.8742"
+            "assemblyVersion": "0.0.0.8744",
+            "fileVersion": "0.0.0.8744"
           }
         }
       }
@@ -31,7 +31,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "EPBotNET/0.0.0.8742": {
+    "EPBotNET/0.0.0.8744": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
